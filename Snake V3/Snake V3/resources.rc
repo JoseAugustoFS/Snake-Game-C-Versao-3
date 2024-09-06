@@ -1,0 +1,6 @@
+#ifndef resource_rc
+#define resource_rc
+
+MAININCON ICON "Snake.ico"
+
+#endif // resource_rc

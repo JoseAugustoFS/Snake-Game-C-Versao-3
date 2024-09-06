@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1582048049 source:c:\users\user\documents\meus programas\snake v3\main.c
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+	<stdio.h>
+
+1581789792 c:\users\user\documents\meus programas\snake v3\soil.h
+
+1581969903 source:c:\users\user\documents\meus programas\snake v3\resources.rc
+
+1581969903 source:c:\users\user\desktop\snake v3\resources.rc
+
+1581969903 source:c:\users\user\documents\meus programas\snake v3\snake v3\resources.rc
+
+1582125161 source:c:\users\user\documents\meus programas\snake v3\snake v3\main.c
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+	<stdio.h>
+
+1581789792 c:\users\user\documents\meus programas\snake v3\snake v3\soil.h
+
